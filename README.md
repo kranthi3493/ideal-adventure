@@ -17,3 +17,8 @@ IBM HR Analytics Employee Attrition dataset from Kaggle. Columns include:
 - Salary
 - PerformanceRating
 - Attrition
+
+## Key Insights
+- Sales department has the highest attrition.
+- Employees with high performance ratings get promoted faster.
+- Gender diversity is highest in IT and Finance departments.
